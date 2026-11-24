@@ -1,12 +1,10 @@
-# SavesGG — downloads
+# SavesGG — os downloads mudaram
 
-Aqui ficam os instaladores do **SavesGG**, o app que acha e guarda os saves dos seus jogos no Windows.
+Os downloads do **SavesGG** agora ficam no repositório do próprio app:
 
-## Como instalar
+**https://github.com/thelipesousa/savesgg/releases**
 
-1. Abra a [última versão](https://github.com/thelipesousa/savesgg-releases/releases/latest).
-2. Baixe `SavesGG_x64-setup.exe` e abra.
-3. Pronto: o app se atualiza sozinho nas próximas versões.
+- [Instalador (recomendado)](https://github.com/thelipesousa/savesgg/releases/latest/download/SavesGG_x64-setup.exe)
+- [Versão portable (pendrive, sem instalar)](https://github.com/thelipesousa/savesgg/releases/latest/download/SavesGG_portable_x64.zip)
 
-O código-fonte fica num repositório privado; este aqui só guarda os arquivos de lançamento.
-O `SHA256SUMS.txt` de cada versão serve para conferir se o download veio inteiro.
+Este repositório só continua existindo para que quem tem a versão 0.3.1 ou anterior instalada receba a atualização automática.
